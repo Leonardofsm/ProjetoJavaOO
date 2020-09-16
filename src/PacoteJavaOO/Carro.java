@@ -9,6 +9,13 @@ public class Carro {
     private boolean freio_de_mao_puxado;
     private boolean chave_virada;
 
+    //criando metodo construtor
+    public Carro() {
+    }
+
+    
+    
+    
     public String getMarca() {
         return marca;
     }

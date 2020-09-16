@@ -7,6 +7,11 @@ public class Conta {
     private String dataAbertura;
     private boolean status;
 
+    public Conta() {
+    }
+    
+    
+
     public int getNumero() {
         return numero;
     }

@@ -11,7 +11,11 @@ public class Pessoa {
     
     //criar os getters e setters - alt+insert
     
- 
+ //criando metodo construtor
+
+    public Pessoa() {
+    }
+    
 
     //pegar as informações da variável = ler
     public String getNome() {
